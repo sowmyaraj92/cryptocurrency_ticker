@@ -1,0 +1,20 @@
+.navbar-dark {
+    background-color: #4670ad;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.04);
+    min-height: 65px;
+}
+
+.logo {
+    color: #FFFFFF;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.card {
+   border-radius: 5px;
+   box-shadow: 0 6px 14px 0 rgba(33,35,68,.1)!important;
+}
+
+.kpi-value {
+    font-weight: 500 !important;
+}
